@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">雷达天气</string>
+    <string name="app_name">气象</string>
     <string name="app_name_long">雷达天气：天气和雷达</string>
     <string name="activity_about">关于</string>
     <string name="activity_settings">设置</string>
